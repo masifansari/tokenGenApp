@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tokenGenApp/static/css/main.c0e800de.css",
+    "main.js": "/tokenGenApp/static/js/main.7bdeec13.js",
+    "static/js/787.f9071abe.chunk.js": "/tokenGenApp/static/js/787.f9071abe.chunk.js",
+    "index.html": "/tokenGenApp/index.html",
+    "main.c0e800de.css.map": "/tokenGenApp/static/css/main.c0e800de.css.map",
+    "main.7bdeec13.js.map": "/tokenGenApp/static/js/main.7bdeec13.js.map",
+    "787.f9071abe.chunk.js.map": "/tokenGenApp/static/js/787.f9071abe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e800de.css",
+    "static/js/main.7bdeec13.js"
+  ]
+}
